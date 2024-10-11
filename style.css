@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-hero-container{
+    background-image: url('https://ik.imagekit.io/98z8afjbc/Website%20projects/imageProxy.webp?updatedAt=1728633667128');
+    background-size: cover;
+    height: 100vh;
+}
+.hello-container{
+    background-image: url('https://ik.imagekit.io/98z8afjbc/Website%20projects/imageProxy%20(2).webp?updatedAt=1728633666807');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+}
